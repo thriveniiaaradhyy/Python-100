@@ -1,1 +1,1 @@
-# Python practice with 100 problems
+# Practice Python 100 problems
