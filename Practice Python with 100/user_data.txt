@@ -1,0 +1,12 @@
+mercury
+venus
+earth
+mars
+jupiter
+saturn
+mars
+uranus
+sun
+pluto
+star
+close
